@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
         status.innerHTML = "Sending...";
         
         // Replace with your actual Make.com webhook URL
-        fetch('YOUR_MAKE_WEBHOOK_URL', {
+        fetch('https://hook.us1.make.com/vgg5au2yn9gvwt4xhs2fzm9b17qky48r', {
           method: 'POST',
           body: JSON.stringify(data),
           headers: {
