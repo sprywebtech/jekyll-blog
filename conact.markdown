@@ -1,6 +1,7 @@
-layout: default
+---
+layout: page
 title: Contact
-permalink: /contact
+permalink: /contact/
 ---
 
 <h1>Contact Us</h1>
